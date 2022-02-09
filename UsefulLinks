@@ -1,0 +1,12 @@
+Artifactory Setup:
+
+https://www.devopsschool.com/blog/artifactory-install-and-configurations-guide/
+
+SonarQubeSetup:
+
+https://medium.com/@HoussemDellai/setup-sonarqube-in-a-docker-container-3c3908b624df
+
+
+Jenkins Setup:
+
+https://rangle.io/blog/running-jenkins-and-persisting-state-locally-using-docker-2/
